@@ -1,0 +1,2 @@
+# .NetCoreWebAPI
+.NetCoreWebApi8
