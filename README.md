@@ -1,2 +1,2 @@
 # .NetCoreWebAPI
-.NetCoreWebApi8
+.NetCoreWebApi8 Course
